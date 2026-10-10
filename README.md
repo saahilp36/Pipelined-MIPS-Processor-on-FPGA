@@ -1,4 +1,4 @@
-# Single-Cycle-RISC-V-Processor-on-FPGA
+# Single-Cycle-MIPS-Processor-on-FPGA
 
 This version is organized as a simple 5-stage pipelined processor:
 
