@@ -28,4 +28,18 @@ Demo switch behavior:
 - `sw == 3`: runs a small hazard/branch demo: LW, dependent ADD, BEQ, skipped
   SUB, then final ADD
 
+
+
+
+<img width="3840" height="2400" alt="image" src="https://github.com/user-attachments/assets/e58f9a61-a062-401e-a889-250163311646" />
+
+
+
+
+
+
+
+
+  
+
 <img width="1266" height="586" alt="image" src="https://github.com/user-attachments/assets/b9116b0a-3fb2-4db3-abf7-da97ca56216d" />
